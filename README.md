@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/njXZmKz"><img src="https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="jinu-sir_v2" src="https://img.shields.io/badge/-jinu sir-red?&style=for-the-badge"></a>
 </p>
@@ -94,7 +94,7 @@ $ node bot.js
 Click WA logo to follow instagram 👇
     <br>
 <br>
-<a href="https://instagram.com/jinu__777?utm_medium=copy_link"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://instagram.com/jinu__777?utm_medium=copy_link"><img title="https://follw support" src="https://https://ibb.co/njXZmKz"></a>
   <div align="center">
 
     
